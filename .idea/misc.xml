@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/drawable/gogglebck.xml" value="0.290625" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/drawable/signinbackgroud.xml" value="0.290625" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_describtion.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_main.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_setting.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_setting_sample.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_signin.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_signup2.xml" value="0.264" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/activity_upload_con.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/layout/manisample.xml" value="0.264" />
+        <entry key="..\:/Users/Hunain/ShareRecipe/app/src/main/res/menu/menu.xml" value="0.27025641025641023" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

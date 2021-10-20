@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/userimage"
+                android:layout_width="66dp"
+                android:layout_height="66dp"
+                android:src="@drawable/hat"
+                app:civ_border_color="@color/purple_200"
+                app:civ_border_width="2dp"
+                tools:ignore="ImageContrastCheck" />
+
+            <TextView
+                android:id="@+id/usernamem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:text="Hunains haikh iqba"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/userpostimg"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/biryani" />
+
+    <TextView
+        android:id="@+id/pottrecname"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+
+        android:layout_margin="5dp"
+        android:background="#E8E1E1"
+        android:fontFamily="@font/allerta_stencil"
+        android:gravity="center"
+        android:textColor="#0C0C0C"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994577573769",
+    "project_id": "recipes-c8133",
+    "storage_bucket": "recipes-c8133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994577573769:android:66f5d0abbdb029095fa358",
+        "android_client_info": {
+          "package_name": "com.hunain.sharerecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994577573769-hh1h256qllnanacvrokrohuu0cv6ojes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHGBpnPjTFU8JCXw8GQHWWHBElVtBhPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994577573769-hh1h256qllnanacvrokrohuu0cv6ojes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
